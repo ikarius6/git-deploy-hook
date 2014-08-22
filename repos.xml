@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<repositories>
+	<repository owner="PROPIETARIO" slug="miproyecto1">
+		<name>Mi proyecto 1</name>
+		<path>/var/www/proyectos/miproyecto1/</path>
+	</repository>
+	<repository owner="PROPIETARIO" slug="miproyecto2">
+		<name>Mi proyecto 2</name>
+		<path>/var/www/proyectos/miproyecto2/</path>
+	</repository>
+</repositories>
